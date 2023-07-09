@@ -1,0 +1,43 @@
+body {
+  display: block;
+  margin: 0 auto;
+  max-width: 600px;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  position: relative;
+  top: -50px;
+  right: 20px;
+}
+
+h3 {
+  font-size: 23px;
+  text-align: center;
+  position: relative;
+  left: 190px;
+  top: -120px;
+}
+
+.weatherInfo {
+  background-color: aliceblue;
+  max-width: 800px;
+  margin: 30px 0;
+  padding: 50px 50px;
+  border-radius: 20px;
+}
+
+.container {
+  font-size: 23px;
+  display: block;
+  margin: 0 auto;
+  padding: 20px 20px;
+  position: relative;
+  top: -50px;
+}
