@@ -1,0 +1,14 @@
+.container {
+  text-align: center;
+  margin: 50px auto;
+  padding: 60px 60px 60px 60px;
+  border-radius: 20px;
+  max-width: 400px;
+  background: #eaf6f6;
+  background: linear-gradient(to right, white lightblue);
+}
+
+.row {
+  padding: 50px 50px;
+}
+
